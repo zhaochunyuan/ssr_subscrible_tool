@@ -1,5 +1,3 @@
-trojan://admin@1.chunyuan.monster:443#SG新加坡-🇸🇬
-
 trojan://xyDiqxvl@awshk.chunyuan.monster:443#AWS香港-🇭🇰
 
 trojan://zwYDunlA@jp.chunyuan.monster:443#AWS东京-🇯🇵
