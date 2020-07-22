@@ -4,4 +4,6 @@ trojan://zwYDunlA@jp.chunyuan.monster:443#AWS东京-🇯🇵
 
 trojan://123456@qq.chunyuan.monster:443#腾讯云香港-🇭🇰
 
+trojan://123456@sg.chunyuan.monster:443#腾讯云SG-🇸🇬
+
 trojan://XSekxDQM@10086.chunyuan.monster:443#谷歌云台湾-🇨🇳
