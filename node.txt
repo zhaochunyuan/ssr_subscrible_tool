@@ -1,14 +1,2 @@
 trojan://123456@qq.chunyuan.monster:443#腾讯云香Trojan-🇭🇰
 trojan://XSekxDQM@10086.chunyuan.monster:443#谷歌云台湾Trojan-🇨🇳
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32101?allowInsecure=0&peer=jiplus.hk-01.jiserver.xyz&sni=jiplus.hk-01.jiserver.xyz#Plus%20%C2%B7%20%E9%A6%99%E6%B8%AF%2001%20CN2%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32102?allowInsecure=0&peer=jiplus.hk-02.jiserver.xyz&sni=jiplus.hk-02.jiserver.xyz#Plus%20%C2%B7%20%E9%A6%99%E6%B8%AF%2002%20CN2%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32103?allowInsecure=0&peer=jiplus.hk-03.jiserver.xyz&sni=jiplus.hk-03.jiserver.xyz#Plus%20%C2%B7%20%E9%A6%99%E6%B8%AF%2003%20CN2%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32201?allowInsecure=0&peer=jiplus.jp-01.jiserver.xyz&sni=jiplus.jp-01.jiserver.xyz#Plus%20%C2%B7%20%E6%97%A5%E6%9C%AC%2001%20CU%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32202?allowInsecure=0&peer=jiplus.jp-02.jiserver.xyz&sni=jiplus.jp-02.jiserver.xyz#Plus%20%C2%B7%20%E6%97%A5%E6%9C%AC%2002%20CU%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32203?allowInsecure=0&peer=jiplus.jp-03.jiserver.xyz&sni=jiplus.jp-03.jiserver.xyz#Plus%20%C2%B7%20%E6%97%A5%E6%9C%AC%2003%20CU%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32301?allowInsecure=0&peer=jiplus.tw-01.jiserver.xyz&sni=jiplus.tw-01.jiserver.xyz#Plus%20%C2%B7%20%E5%8F%B0%E6%B9%BE%2001%20CM%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32302?allowInsecure=0&peer=jiplus.tw-02.jiserver.xyz&sni=jiplus.tw-02.jiserver.xyz#Plus%20%C2%B7%20%E5%8F%B0%E6%B9%BE%2002%20CM%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.us-01.jiserver.xyz:443?allowInsecure=0&peer=jiplus.us-01.jiserver.xyz&sni=jiplus.us-01.jiserver.xyz#Plus%20%C2%B7%20%E7%BE%8E%E5%9B%BD%2001%20CN2%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.us-02.jiserver.xyz:443?allowInsecure=0&peer=jiplus.us-02.jiserver.xyz&sni=jiplus.us-02.jiserver.xyz#Plus%20%C2%B7%20%E7%BE%8E%E5%9B%BD%2002%20CN2%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32501?allowInsecure=0&peer=jiplus.sgp-01.jiserver.xyz&sni=jiplus.sgp-01.jiserver.xyz#Plus%20%C2%B7%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20CN2%7CRelay%7CTrojan
-trojan://459029cb-55b2-4863-9801-5894675e2402@jiplus.cn2-relay.01.jiserver.xyz:32501?allowInsecure=0&peer=jiplus.sgp-02.jiserver.xyz&sni=jiplus.sgp-02.jiserver.xyz#Plus%20%C2%B7%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002%20CN2%7CRelay%7CTrojan
